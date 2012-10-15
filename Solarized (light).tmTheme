@@ -194,6 +194,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Embedded Source</string>
+			<key>scope</key>
+			<string>text source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#EEE8D5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Inherited class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
